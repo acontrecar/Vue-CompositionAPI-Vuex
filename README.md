@@ -1,5 +1,4 @@
-# 08-compo-api
-
+# Uso de vuex con composition API
 ## Project setup
 ```
 npm install
